@@ -1,5 +1,5 @@
 import pandas as pd
-¬
+
 def logTime():
   print(pd.to_datetime('now'),end='\t')
 
